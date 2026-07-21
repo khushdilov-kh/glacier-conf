@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tj",
+    "name": "Tajikistan",
+    "tier": "platinum",
+    "logo": "/images/logo/gerb.png"
+  },
+  {
+    "id": "ksu",
+    "name": "Khorog State University (KSU)",
+    "tier": "gold",
+    "logo": "/images/logo/khogu.png"
+  },
+  {
+    "id": "sdc",
+    "name": "Swiss Agency for Development and Cooperation (SDC)",
+    "tier": "silver",
+    "logo": "/images/logo/sdc.jpg",
+    "url": "https://www.eda.admin.ch/countries/tajikistan/en/home.html"
+  },
+  
+  
+  {
+    "id": "akf",
+    "name": "Aga Khan Foundation (AKF)",
+    "tier": "gold",
+    "logo": "/images/logo/akf.png",
+    "url": "https://akf.org/country/tajikistan/"
+  }
+]

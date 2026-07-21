@@ -1,0 +1,198 @@
+[
+  {
+    "date": "3-5 August",
+    "label": {
+      "en": "Phase 1 - Shared foundations",
+      "ru": "Фаза 1 - Общие основы",
+      "tg": "Марҳилаи 1 - Заминаи муштарак"
+    },
+    "sessions": [
+      {
+        "time": "Day 1",
+        "title": {
+          "en": "Opening, orientation, and Central Asia context",
+          "ru": "Открытие, ориентация и контекст Центральной Азии",
+          "tg": "Ифтитоҳ, шиносоӣ ва заминаи Осиёи Марказӣ"
+        },
+        "type": {
+          "en": "Program launch",
+          "ru": "Старт программы",
+          "tg": "Оғози барнома"
+        }
+      },
+      {
+        "time": "Day 2",
+        "title": {
+          "en": "Cryosphere processes: glaciers, glacial lakes, permafrost",
+          "ru": "Криосферные процессы: ледники, ледниковые озера, мерзлота",
+          "tg": "Равандҳои криосфера: пиряхҳо, кӯлҳои пиряхӣ, яхбандии абадӣ"
+        },
+        "type": {
+          "en": "Core lectures",
+          "ru": "Базовые лекции",
+          "tg": "Лексияҳои асосӣ"
+        }
+      },
+      {
+        "time": "Day 3",
+        "title": {
+          "en": "Hazard chains, climate change, exposure, and vulnerability",
+          "ru": "Цепочки опасностей, изменение климата, экспозиция и уязвимость",
+          "tg": "Занҷираҳои хатар, тағйирёбии иқлим, қароргирӣ дар маърази хатар ва осебпазирӣ"
+        },
+        "type": {
+          "en": "Applied framing",
+          "ru": "Прикладная рамка",
+          "tg": "Чорчӯбаи амалӣ"
+        }
+      }
+    ]
+  },
+  {
+    "date": "6-8 August",
+    "label": {
+      "en": "Phase 2 - Tools and analysis",
+      "ru": "Фаза 2 - Инструменты и анализ",
+      "tg": "Марҳилаи 2 - Воситаҳо ва таҳлил"
+    },
+    "sessions": [
+      {
+        "time": "Day 4",
+        "title": {
+          "en": "Remote sensing datasets and terrain analysis",
+          "ru": "Данные дистанционного зондирования и анализ рельефа",
+          "tg": "Маълумоти зондкунии фосилавӣ ва таҳлили релеф"
+        },
+        "type": {
+          "en": "GIS lab",
+          "ru": "ГИС-лаборатория",
+          "tg": "Лабораторияи GIS"
+        }
+      },
+      {
+        "time": "Day 5",
+        "title": {
+          "en": "Hazard delineation for GLOFs, debris flows, and related processes",
+          "ru": "Делинеация опасностей для GLOF, селевых потоков и связанных процессов",
+          "tg": "Муайян кардани минтақаҳои хатар барои GLOF, сел ва равандҳои вобаста"
+        },
+        "type": {
+          "en": "Hands-on mapping",
+          "ru": "Практическое картирование",
+          "tg": "Харитасозии амалӣ"
+        }
+      },
+      {
+        "time": "Day 6",
+        "title": {
+          "en": "Exposure mapping and data interpretation",
+          "ru": "Картирование экспозиции и интерпретация данных",
+          "tg": "Харитасозии қароргирӣ дар маърази хатар ва тафсири маълумот"
+        },
+        "type": {
+          "en": "Applied exercise",
+          "ru": "Прикладное упражнение",
+          "tg": "Машқи амалӣ"
+        }
+      }
+    ]
+  },
+  {
+    "date": "9-12 August",
+    "label": {
+      "en": "Phase 3 - Risk and management",
+      "ru": "Фаза 3 - Риск и управление",
+      "tg": "Марҳилаи 3 - Хавф ва идоракунӣ"
+    },
+    "sessions": [
+      {
+        "time": "Day 7-8",
+        "title": {
+          "en": "Vulnerability analysis and integrated risk narratives",
+          "ru": "Анализ уязвимости и интегрированные риск-нарративы",
+          "tg": "Таҳлили осебпазирӣ ва тавсифҳои ҳамгирои хавф"
+        },
+        "type": {
+          "en": "Risk analysis",
+          "ru": "Анализ риска",
+          "tg": "Таҳлили хавф"
+        }
+      },
+      {
+        "time": "Day 9",
+        "title": {
+          "en": "DRR/DRM options, prioritization, and governance constraints",
+          "ru": "Опции DRR/DRM, приоритизация и ограничения управления",
+          "tg": "Имкониятҳои DRR/DRM, афзалиятгузорӣ ва маҳдудиятҳои идоракунӣ"
+        },
+        "type": {
+          "en": "Decision support",
+          "ru": "Поддержка решений",
+          "tg": "Дастгирии қабули қарор"
+        }
+      },
+      {
+        "time": "Day 10",
+        "title": {
+          "en": "Community-based early warning and climate-resilient land use planning",
+          "ru": "Общественно-ориентированное раннее предупреждение и климатически устойчивое планирование территорий",
+          "tg": "Огоҳкунии барвақтии ҷомеамеҳвар ва банақшагирии истифодаи замини ба иқлим устувор"
+        },
+        "type": {
+          "en": "Planning workshop",
+          "ru": "Планировочная мастерская",
+          "tg": "Коргоҳи банақшагирӣ"
+        }
+      }
+    ]
+  },
+  {
+    "date": "13-15 August",
+    "label": {
+      "en": "Phase 4 - Field learning and capstone",
+      "ru": "Фаза 4 - Полевое обучение и итоговый проект",
+      "tg": "Марҳилаи 4 - Омӯзиши саҳроӣ ва кори ниҳоӣ"
+    },
+    "sessions": [
+      {
+        "time": "Day 11",
+        "title": {
+          "en": "Field visits to Barsem, Khidorjev, and Botsad, with observation of cryosphere-related processes",
+          "ru": "Полевые выезды в Барсем, Хидорджев и Ботсад с наблюдением криосферных процессов",
+          "tg": "Сафарҳои саҳроӣ ба Барсем, Хидорҷев ва Ботсад бо мушоҳидаи равандҳои вобаста ба криосфера"
+        },
+        "type": {
+          "en": "Field learning",
+          "ru": "Полевое обучение",
+          "tg": "Омӯзиши саҳроӣ"
+        }
+      },
+      {
+        "time": "Day 12",
+        "title": {
+          "en": "Group map package and risk briefing development",
+          "ru": "Подготовка группового картографического пакета и риск-брифа",
+          "tg": "Таҳияи маҷмӯаи харитаҳои гурӯҳӣ ва risk briefing"
+        },
+        "type": {
+          "en": "Capstone work",
+          "ru": "Итоговая работа",
+          "tg": "Кори ниҳоӣ"
+        }
+      },
+      {
+        "time": "Day 13",
+        "title": {
+          "en": "Risk briefing presentations and closing reflection",
+          "ru": "Презентации риск-брифов и итоговая рефлексия",
+          "tg": "Пешниҳоди risk briefing ва хулосаи ҷамъбастӣ"
+        },
+        "type": {
+          "en": "Final presentations",
+          "ru": "Финальные презентации",
+          "tg": "Презентатсияҳои ниҳоӣ"
+        }
+      }
+    ]
+  }
+]

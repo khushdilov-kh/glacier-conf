@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cryosphere-processes",
+    "title": {
+      "en": "Cryosphere processes and hazard fundamentals",
+      "ru": "Криосферные процессы и основы опасностей",
+      "tg": "Равандҳои криосфера ва асосҳои хатарҳо"
+    },
+    "description": {
+      "en": "Introduction to glacier retreat, glacial lake formation, permafrost thaw, snow and ice dynamics, and the physical drivers behind cascading mountain hazards.",
+      "ru": "Введение в отступание ледников, формирование ледниковых озер, деградацию мерзлоты, динамику снега и льда, а также физические процессы, запускающие каскадные опасности в горах.",
+      "tg": "Шиносоӣ бо ақибнишинии пиряхҳо, ташаккули кӯлҳои пиряхӣ, обшавии яхбандии абадӣ, динамикаи барфу ях ва омилҳои физикие, ки хатарҳои занҷирии кӯҳистониро ба вуҷуд меоранд."
+    }
+  },
+  {
+    "id": "gis-remote-sensing",
+    "title": {
+      "en": "GIS and remote sensing foundations",
+      "ru": "Основы ГИС и дистанционного зондирования",
+      "tg": "Асосҳои GIS ва зондкунии фосилавӣ"
+    },
+    "description": {
+      "en": "Data sources, preprocessing, terrain analysis, uncertainty, and practical workflows for mountain hazard mapping and exposure assessment.",
+      "ru": "Источники данных, предварительная обработка, анализ рельефа, неопределенность и практические рабочие процессы для картирования горных опасностей и оценки экспозиции.",
+      "tg": "Манбаъҳои маълумот, коркарди ибтидоӣ, таҳлили релеф, номуайянӣ ва равандҳои амалии кор барои харитасозии хатарҳои кӯҳистон ва арзёбии қароргирӣ дар маърази хатар."
+    }
+  },
+  {
+    "id": "glacial-lakes-glof",
+    "title": {
+      "en": "Glacial lakes and GLOF assessment",
+      "ru": "Ледниковые озера и оценка GLOF",
+      "tg": "Кӯлҳои пиряхӣ ва арзёбии GLOF"
+    },
+    "description": {
+      "en": "Identification of glacial lakes, susceptibility screening, downstream impact pathways, and introductory approaches to community-level GLOF risk analysis.",
+      "ru": "Выявление ледниковых озер, скрининг восприимчивости, анализ downstream-путей воздействия и базовые подходы к оценке рисков GLOF на уровне сообществ.",
+      "tg": "Муайян кардани кӯлҳои пиряхӣ, санҷиши ибтидоии ҳассосият, таҳлили роҳҳои таъсир дар поёноб ва равишҳои аввалия барои таҳлили хавфи GLOF дар сатҳи ҷомеа."
+    }
+  },
+  {
+    "id": "permafrost-stability",
+    "title": {
+      "en": "Permafrost, slope stability, and resilience",
+      "ru": "Мерзлота, устойчивость склонов и устойчивость территорий",
+      "tg": "Яхбандии абадӣ, устувории нишебиҳо ва устуворӣ"
+    },
+    "description": {
+      "en": "Indicators of permafrost change, terrain controls, infrastructure implications, and nature-based solutions for stabilization and climate resilience.",
+      "ru": "Индикаторы изменений мерзлоты, роль рельефа, последствия для инфраструктуры и природоориентированные решения для стабилизации и климатической устойчивости.",
+      "tg": "Нишондиҳандаҳои тағйирёбии яхбандии абадӣ, омилҳои релефӣ, паёмадҳо барои инфрасохтор ва ҳалли бар пояи табиат барои устуворгардонӣ ва мутобиқшавӣ ба иқлим."
+    }
+  },
+  {
+    "id": "risk-vulnerability",
+    "title": {
+      "en": "Hazard, exposure, vulnerability, and risk",
+      "ru": "Опасность, экспозиция, уязвимость и риск",
+      "tg": "Хатар, қароргирӣ дар маърази хатар, осебпазирӣ ва хавф"
+    },
+    "description": {
+      "en": "Integrated approaches that connect hazard layers with settlement and infrastructure data to build risk narratives for decision-making.",
+      "ru": "Интегрированные подходы, связывающие слои опасностей с данными о населенных пунктах и инфраструктуре для формирования риск-ориентированных выводов для принятия решений.",
+      "tg": "Равишҳои ҳамгирое, ки қабатҳои хатарро бо маълумот дар бораи маҳалҳои аҳолинишин ва инфрасохтор мепайванданд, то барои қабули қарорҳо хулосаҳои хавфнок таҳия шаванд."
+    }
+  },
+  {
+    "id": "early-warning-planning",
+    "title": {
+      "en": "Early warning, DRM, and climate-resilient planning",
+      "ru": "Раннее предупреждение, DRM и климатически устойчивое планирование",
+      "tg": "Огоҳкунии барвақтӣ, DRM ва банақшагирии ба иқлим устувор"
+    },
+    "description": {
+      "en": "Community-based early warning systems, preparedness options, DRR/DRM integration, and land-use planning for sustainable mountain development.",
+      "ru": "Общественно-ориентированные системы раннего предупреждения, меры готовности, интеграция DRR/DRM и территориальное планирование для устойчивого развития горных регионов.",
+      "tg": "Системаҳои огоҳкунии барвақтии ҷомеамеҳвар, тадбирҳои омодагӣ, ҳамгироии DRR/DRM ва банақшагирии истифодаи замин барои рушди устувори минтақаҳои кӯҳистон."
+    }
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "en": {
+    "name": "International Scientific and Practical Conference 2026",
+    "shortName": "Hydromet & Glaciers 2026",
+    "tagline": "Advancing hydrometeorological monitoring and glacier protection in the context of climate change",
+    "heroSubtitle": "An international platform for science, policy and practical cooperation on hydrometeorology, cryosphere research, glacier preservation and climate resilience.",
+    "dateRange": "18–19 August 2026",
+    "city": "Dushanbe, Republic of Tajikistan",
+    "venue": "Dushanbe; field visit to Rasht District",
+    "format": "Hybrid — in person and online",
+    "timezone": "TJT (UTC+5)",
+    "registrationUrl": "/registration/",
+    "cfpUrl": "/#call-for-papers",
+    "contactEmail": "info@glacersconf.tj",
+    "pressEmail": "",
+    "phone": "",
+    "socials": {},
+    "languages": ["en"],
+    "aboutPreview": "Dedicated to 35 years of State Independence and 100 years of the Hydrometeorological Service of Tajikistan.",
+    "registrationHighlight": "Registration and online participation details will be announced by the organizers.",
+    "seo": {
+      "siteUrl": "",
+      "defaultOgImage": ""
+    },
+    "facts": [
+      { "label": "Dates", "value": "18–19 August 2026" },
+      { "label": "Conference", "value": "Dushanbe, Tajikistan" },
+      { "label": "Field visit", "value": "Rasht District" },
+      { "label": "Format", "value": "Hybrid" }
+    ]
+  },
+  "ru": {
+    "name": "International Scientific and Practical Conference 2026",
+    "shortName": "Hydromet & Glaciers 2026",
+    "tagline": "Advancing hydrometeorological monitoring and glacier protection in the context of climate change",
+    "heroSubtitle": "An international platform for science, policy and practical cooperation on hydrometeorology, cryosphere research, glacier preservation and climate resilience.",
+    "dateRange": "18–19 August 2026",
+    "city": "Dushanbe, Republic of Tajikistan",
+    "venue": "Dushanbe; field visit to Rasht District",
+    "format": "Hybrid — in person and online",
+    "timezone": "TJT (UTC+5)",
+    "registrationUrl": "/registration/",
+    "cfpUrl": "/#call-for-papers",
+    "contactEmail": "info@glacersconf.tj",
+    "pressEmail": "",
+    "phone": "",
+    "socials": {},
+    "languages": ["en"],
+    "aboutPreview": "Dedicated to 35 years of State Independence and 100 years of the Hydrometeorological Service of Tajikistan.",
+    "registrationHighlight": "Registration and online participation details will be announced by the organizers.",
+    "seo": { "siteUrl": "", "defaultOgImage": "" },
+    "facts": [
+      { "label": "Dates", "value": "18–19 August 2026" },
+      { "label": "Conference", "value": "Dushanbe, Tajikistan" },
+      { "label": "Field visit", "value": "Rasht District" },
+      { "label": "Format", "value": "Hybrid" }
+    ]
+  },
+  "tg": {
+    "name": "International Scientific and Practical Conference 2026",
+    "shortName": "Hydromet & Glaciers 2026",
+    "tagline": "Advancing hydrometeorological monitoring and glacier protection in the context of climate change",
+    "heroSubtitle": "An international platform for science, policy and practical cooperation on hydrometeorology, cryosphere research, glacier preservation and climate resilience.",
+    "dateRange": "18–19 August 2026",
+    "city": "Dushanbe, Republic of Tajikistan",
+    "venue": "Dushanbe; field visit to Rasht District",
+    "format": "Hybrid — in person and online",
+    "timezone": "TJT (UTC+5)",
+    "registrationUrl": "/registration/",
+    "cfpUrl": "/#call-for-papers",
+    "contactEmail": "info@glacersconf.tj",
+    "pressEmail": "",
+    "phone": "",
+    "socials": {},
+    "languages": ["en"],
+    "aboutPreview": "Dedicated to 35 years of State Independence and 100 years of the Hydrometeorological Service of Tajikistan.",
+    "registrationHighlight": "Registration and online participation details will be announced by the organizers.",
+    "seo": { "siteUrl": "", "defaultOgImage": "" },
+    "facts": [
+      { "label": "Dates", "value": "18–19 August 2026" },
+      { "label": "Conference", "value": "Dushanbe, Tajikistan" },
+      { "label": "Field visit", "value": "Rasht District" },
+      { "label": "Format", "value": "Hybrid" }
+    ]
+  }
+}
