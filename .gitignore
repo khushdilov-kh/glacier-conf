@@ -5,6 +5,5 @@ dist
 coverage
 .vercel
 .env*
-.openai
 .vscode
 out.zip
